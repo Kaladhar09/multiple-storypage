@@ -1,0 +1,51 @@
+img{
+  height:250px;
+  width:250px;
+  border-radius: 20%;
+}
+.Main{
+  display:flex;
+
+  justify-content: space-evenly;
+
+}
+
+h3{
+  text-align: center;
+
+  font-size: 25px;
+  font-style: italic;
+  font-stretch: semi-expanded;
+  font-variant: small-caps;
+  font-kerning: normal;
+  font-weight: bolder;
+  font-stretch: ultra-expanded;
+  color:white;
+}
+body{
+  background:url("https://assets.newatlas.com/dims4/default/796df3d/2147483647/strip/true/crop/1783x1012+0+0/resize/1783x1012!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F15%2F13%2Ff78cb42d41bab073a9d2f9f1754f%2Fscreenshot-2024-02-07-at-6.41.06%20pm.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h1{
+  padding-top: 10px;
+  padding-bottom: 35px;
+  text-align: center;
+  text-transform: full-width;
+  margin-bottom: 100px;
+  font-size: 85px;
+  font-style: italic;
+  font-stretch: semi-expanded;
+  font-variant: small-caps;
+  font-kerning: normal;
+ color:white;
+
+}
+
+img{
+  opacity: 0.1;
+
+}
+img:hover{
+  opacity:1;
+}

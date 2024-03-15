@@ -1,0 +1,110 @@
+
+.Main{
+  display:flex;
+
+  justify-content: space-evenly;
+
+}
+
+
+h2{
+  text-align: left;
+
+  font-size: 20px;
+  font-style: italic;
+  font-stretch: semi-expanded;
+  font-variant: normal;
+  font-kerning: normal;
+  font-weight: bolder;
+  font-stretch: ultra-expanded;
+  color:black;
+}
+body{
+  background:
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h1{
+
+  text-align: center;
+  text-transform: full-width;
+  margin-bottom: 100px;
+  font-size: 85px;
+  font-style: italic;
+  font-stretch: semi-expanded;
+  font-variant:small-caps;
+  font-kerning: normal;
+ color:black;
+
+}
+h3{
+  text-align: left;
+
+  font-size: 20px;
+  font-style: italic;
+  font-stretch: semi-expanded;
+  font-variant: normal;
+  font-kerning: normal;
+  font-weight: bolder;
+  font-stretch: ultra-expanded;
+  color:black;
+}
+h4{
+  text-align: left;
+
+  font-size: 20px;
+  font-style: italic;
+  font-stretch: semi-expanded;
+  font-variant: normal;
+  font-kerning: normal;
+  font-weight: bolder;
+  font-stretch: ultra-expanded;
+  color:black;
+}
+p{
+  font-style: italic;
+  font-variant: inherit;
+  font-size: 15px;
+}
+
+.div2{
+  display:flex;
+
+border:3px solid black;
+background-color: grey;
+
+}
+.div3{
+  display:flex;
+
+border:3px solid black;
+background-color: grey;
+
+}
+.div1{
+  display:flex;
+
+border:3px solid black;
+background-color: grey;
+
+}
+.div4{
+  display:flex;
+
+border:3px solid black;
+background-color: grey;
+
+}
+.looop{
+   position:relative;
+  left: 100px;
+
+}
+img{
+  height:250px;
+  width:250px;
+  border-radius: 50%;
+}
+hr{
+  height:2px;
+}
